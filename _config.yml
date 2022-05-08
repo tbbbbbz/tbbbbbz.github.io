@@ -23,7 +23,7 @@ email: tengbozou@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  I am a Gatech graduate majoring in Computer Science, currently working as software engineer at one of FANG (or whatever the name people call right now).
  This is my personal tech blog in which I share interesting projects I am doing off work. Also I share knowledge of system admin, network, and coding.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tbbbbbz
 facebook_username: tengbozo
